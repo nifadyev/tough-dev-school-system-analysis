@@ -1,0 +1,237 @@
+<mxfile host="Electron" modified="2023-11-22T15:44:20.244Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="DSCxCs7pb2k_k6UGVsWf" version="22.1.2" type="device">
+  <diagram name="Page-1" id="lf9sXwPOh6Lc7acTnfOK">
+    <mxGraphModel dx="1024" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DlWhUFJur6gLoZN-VriO-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-11" value="&lt;b&gt;Legend&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-143" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="770" y="359" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-144" value="&lt;b&gt;Регистрация и тестирование воркера&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="369" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=#FF0000;entryX=0.633;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DlWhUFJur6gLoZN-VriO-145" target="DlWhUFJur6gLoZN-VriO-157">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="120" />
+              <mxPoint x="440" y="200" />
+              <mxPoint x="602" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-172" value="Работа над заказом начата" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlWhUFJur6gLoZN-VriO-161">
+          <mxGeometry x="0.1526" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-145" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="270" y="45" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-146" value="&lt;b&gt;Жизненный цикл заказа&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="55" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-147" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="600" y="50" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-148" value="&lt;b&gt;Отдел контроля качества&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="60" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1" source="DlWhUFJur6gLoZN-VriO-149" target="DlWhUFJur6gLoZN-VriO-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-180" value="Воркер подобран" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlWhUFJur6gLoZN-VriO-179">
+          <mxGeometry x="-0.1224" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-149" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-150" value="&lt;b&gt;Система мэтчинга&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="414" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-151" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="364.83" y="410" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-152" value="&lt;b&gt;Инвентаризация и склад&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="374.83" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-155" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="770" y="180" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-156" value="&lt;b&gt;Выплаты денежных средств&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-157" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-158" value="&lt;b&gt;Система ставок&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=3;entryX=0.809;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.815;exitY=1.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DlWhUFJur6gLoZN-VriO-159" target="DlWhUFJur6gLoZN-VriO-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-176" value="Заказ создан" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlWhUFJur6gLoZN-VriO-175">
+          <mxGeometry x="-0.1807" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-159" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="235" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-160" value="&lt;b&gt;Создание и управление заказом&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="245" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-163" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="31" y="79.5" as="sourcePoint" />
+            <mxPoint x="111" y="79.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-164" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#3333FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="31" y="119.5" as="sourcePoint" />
+            <mxPoint x="111" y="119.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-165" value="- Streaming communication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="105" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-166" value="- Domain event" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="65" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.013;entryY=0.902;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0000;entryPerimeter=0;" edge="1" parent="1" source="DlWhUFJur6gLoZN-VriO-145" target="DlWhUFJur6gLoZN-VriO-157">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="222.48000000000002" as="sourcePoint" />
+            <mxPoint x="410" y="377.48" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="302" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-169" value="Заказ отменен" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlWhUFJur6gLoZN-VriO-167">
+          <mxGeometry x="0.3741" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.592;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0000;entryPerimeter=0;" edge="1" parent="1" target="DlWhUFJur6gLoZN-VriO-157">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330.52" y="145" as="sourcePoint" />
+            <mxPoint x="549.52" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-171" value="Заказ провален" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlWhUFJur6gLoZN-VriO-170">
+          <mxGeometry x="0.3741" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360.03999999999996" y="145" as="sourcePoint" />
+            <mxPoint x="520" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-174" value="Работа над заказом завершена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlWhUFJur6gLoZN-VriO-173">
+          <mxGeometry x="0.3741" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.024;entryY=0.199;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1" source="DlWhUFJur6gLoZN-VriO-145" target="DlWhUFJur6gLoZN-VriO-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-182" value="Заказ отменен" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlWhUFJur6gLoZN-VriO-181">
+          <mxGeometry x="0.0261" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.447;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1" source="DlWhUFJur6gLoZN-VriO-145" target="DlWhUFJur6gLoZN-VriO-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-184" value="Заказ провален" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlWhUFJur6gLoZN-VriO-183">
+          <mxGeometry x="-0.1391" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1" source="DlWhUFJur6gLoZN-VriO-145" target="DlWhUFJur6gLoZN-VriO-159">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="120" />
+              <mxPoint x="250" y="190" />
+              <mxPoint x="105" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-188" value="Заказ провален воркером" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlWhUFJur6gLoZN-VriO-185">
+          <mxGeometry x="0.1016" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.367;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#3333FF;" edge="1" parent="1" source="DlWhUFJur6gLoZN-VriO-159" target="DlWhUFJur6gLoZN-VriO-157">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="310" />
+              <mxPoint x="200" y="380" />
+              <mxPoint x="568" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-190" value="Order information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlWhUFJur6gLoZN-VriO-189">
+          <mxGeometry x="-0.0883" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.129;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#3333FF;" edge="1" parent="1" source="DlWhUFJur6gLoZN-VriO-159" target="DlWhUFJur6gLoZN-VriO-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-192" value="Order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlWhUFJur6gLoZN-VriO-191">
+          <mxGeometry x="-0.5794" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.206;entryY=-0.08;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#3333FF;" edge="1" parent="1" source="DlWhUFJur6gLoZN-VriO-159" target="DlWhUFJur6gLoZN-VriO-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-194" value="Order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlWhUFJur6gLoZN-VriO-193">
+          <mxGeometry x="-0.2594" y="1" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.668;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#3333FF;" edge="1" parent="1" source="DlWhUFJur6gLoZN-VriO-159" target="DlWhUFJur6gLoZN-VriO-147">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="310" />
+              <mxPoint x="20" y="570" />
+              <mxPoint x="687" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-196" value="Order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlWhUFJur6gLoZN-VriO-195">
+          <mxGeometry x="-0.1985" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.803;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#3333FF;" edge="1" parent="1" source="DlWhUFJur6gLoZN-VriO-143" target="DlWhUFJur6gLoZN-VriO-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlWhUFJur6gLoZN-VriO-199" value="Worker" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlWhUFJur6gLoZN-VriO-198">
+          <mxGeometry x="0.0529" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
