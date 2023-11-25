@@ -2,6 +2,5 @@
 
 Homework for "System Analysis" course by Tough Dev School.
 
-Each folder is prefixed by class number and contains `Draw.io` flowcharts and `Markdown` file with system requirements.
-
-- 0 homework (before any lesson) - snapshot of knowledge, helps to compare yourself before and after course. Mostly unfinished and invalid.
+Each folder in root directory contains source `DrawIO` diagram and PDF/image representations. There is `Markdown` file with decision reasoning for each home task after lessons.
+Progress is tracked by PRs.
